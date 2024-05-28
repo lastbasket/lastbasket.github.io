@@ -2,10 +2,10 @@
 title: "Towards Trustworthy Augmented Reality in The Metaverse Era: Probing Manipulative Designs in Virtual-Physical Commercial Platform"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-2
-excerpt: "<img src='/images/dark_pattern.png'>"
+excerpt: "<img src='/images/dark_pattern.png' width='400' height='200'>"
 date: 2023-10-01
 venue: 'IEEE VR Workshop'
-paperurl: 'https://www.researchgate.net/publication/370446696_Towards_Trustworthy_Augmented_Reality_in_The_Metaverse_Era_Probing_Manipulative_Designs_in_Virtual-Physical_Commercial_Platforms'
+paperurl: 'https://ieeexplore.ieee.org/document/10108880'
 citation: 'De Haas, E., Yiming, H., Bermejo, C., Lin, Z., Hui, P., & Lee, L. H. (2023, March). Towards Trustworthy Augmented Reality in The Metaverse Era: Probing Manipulative Designs in Virtual-Physical Commercial Platforms. In <i>2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>.  (pp. 779-780). IEEE.'
 ---
 
