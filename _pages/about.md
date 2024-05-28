@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 Education
 ======
 * Ph.D. student in Electronic Engineering, The Chinese University of Hong Kong, 2023 - now
