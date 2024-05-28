@@ -1,7 +1,9 @@
 ---
 title: "Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting"
 collection: publications
+permalink: 'https://arxiv.org/abs/2401.16416'
 excerpt: "<img src='/images/gs.png' width='450' height='150'>"
+date: 2024-02-17
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2401.16416'
 citation: 'Huang, Y., Cui, B., Bai, L., Guo, Z., Xu, M., & Ren, H. (2024). Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting. <i>Arxiv</i>.'

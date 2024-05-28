@@ -1,6 +1,7 @@
 ---
 title: "Robust Depth Enhancement via Polarization Prompt Fusion Tuning"
 collection: publications
+permalink: 'https://arxiv.org/abs/2404.04318'
 excerpt: "<img src='/images/pol.png' width='450' height='300'>"
 date: 2024-01-01
 venue: 'CVPR'

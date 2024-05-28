@@ -1,6 +1,7 @@
 ---
 title: "Towards Reproducible Evaluations for Flying Drone Controllers in Virtual Environments"
 collection: publications
+permalink: 'https://arxiv.org/abs/2207.14462'
 excerpt: "<img src='/images/drone.png' width='400' height='200'>"
 date: 2022-10-01
 venue: 'IROS'
