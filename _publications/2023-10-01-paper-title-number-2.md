@@ -1,5 +1,6 @@
 ---
 title: "Towards Trustworthy Augmented Reality in The Metaverse Era: Probing Manipulative Designs in Virtual-Physical Commercial Platform"
+url: /markdown/
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: "<img src='/images/dark_pattern.png' width='400' height='200'>"
