@@ -151,6 +151,10 @@ td[width="75%"] a[href*="lastbasket.github.io"]:hover {
   text-decoration: none;
 }
 
+td[width="75%"] a i {
+  margin-right: 4px;
+}
+
 p[style*="text-align:center"] a {
   display: inline-block;
   margin: 4px 3px;
@@ -159,6 +163,10 @@ p[style*="text-align:center"] a {
   background: #f1f5f9;
   color: #1e40af;
   font-weight: 600;
+}
+
+p[style*="text-align:center"] a i {
+  margin-right: 5px;
 }
 
 p[style*="text-align:center"] a:hover {
