@@ -129,6 +129,7 @@ td[width="75%"] a {
 
 td[width="75%"] a[href*="arxiv"],
 td[width="75%"] a[href*="github"],
+td[width="75%"] a[href*="sciencedirect"],
 td[width="75%"] a[href*="Project"],
 td[width="75%"] a[href*="lastbasket.github.io"] {
   display: inline-block;
@@ -144,6 +145,7 @@ td[width="75%"] a[href*="lastbasket.github.io"] {
 
 td[width="75%"] a[href*="arxiv"]:hover,
 td[width="75%"] a[href*="github"]:hover,
+td[width="75%"] a[href*="sciencedirect"]:hover,
 td[width="75%"] a[href*="Project"]:hover,
 td[width="75%"] a[href*="lastbasket.github.io"]:hover {
   background: #e0e7ff;
